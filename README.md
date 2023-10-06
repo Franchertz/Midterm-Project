@@ -1,13 +1,13 @@
 # MIDTERM-PROJECT 
 
-  ### CLIMATE CHANGE'S IMPACT ON APPAREL MANUFATURING IN CALGARY CANADA
+  ## CLIMATE CHANGE'S IMPACT ON APPAREL MANUFATURING IN CALGARY CANADA
 
 Team members:
 
     Quoc Thach Nguyen (RED)
     Franklin Anozie
 
-## PROJECT/GOALS
+## PROJECT GOALS
 
     1. Our midterm project has the primary goal of forecasting upcoming weather patterns,
     with a specific focus on temperature trends in Calgary, Canada. This initiative is aimed
