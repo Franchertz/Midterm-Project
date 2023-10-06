@@ -56,7 +56,7 @@ Team members:
     2. Create a target variable that represents whether the temperature
     will "rise" or "fall" based on your criteria (e.g., comparing today's temperature with tomorrow's).
 
-3. Prepare the data by selecting relevant features (e.g., MEAN_TEMPERATURE and TOTAL_PRECIPITATION)
+    3. Prepare the data by selecting relevant features (e.g., MEAN_TEMPERATURE and TOTAL_PRECIPITATION)
 and the target variable.
 
 ### STEP 4: EXPLORATORY DATA ANALYSIS (EDA)
