@@ -1,5 +1,6 @@
 # MIDTERM-PROJECT 
-Team members: 
+Team members:
+
     Quoc Thach Nguyen (RED)
     Franklin Anozie
 
@@ -64,7 +65,7 @@ Team members:
 
 Exploratory Data Analysis (EDA) Insights:
 
-    - During our exploration of the data, we identified numerous instances of zero values in both temperature and precipitation columns. After careful examination and analysis, we made the decision to retain these values as they are valid. In colder climates like Calgary, it is plausible to have zero temperatures and precipitation.
+    During our exploration of the data, we identified numerous instances of zero values in both temperature and precipitation columns. After careful examination and analysis, we made the decision to retain these values as they are valid. In colder climates like Calgary, it is plausible to have zero temperatures and precipitation.
 
 Model Performance:
 
